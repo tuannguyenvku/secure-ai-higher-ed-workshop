@@ -14,7 +14,7 @@ institutions moving off public cloud AI.
 | Folder | File | What it is |
 |---|---|---|
 | [`slides/`](slides/) | `Secure-AI-Workshop-slides.pdf` | The full talk (27 slides, 16:9) |
-| [`worksheet/`](worksheet/) | `Secure-AI-Workshop-worksheet.pdf` | Participant worksheet — *"Your Turn: Design a Secure Workflow"* |
+| [`worksheet/`](worksheet/) | `Secure-AI-Workshop-worksheet.pdf` · `.docx` | Participant worksheet — *"Your Turn: Design a Secure Workflow"* (PDF to print, `.docx` to edit) |
 | [`notebooks/`](notebooks/) | `00`–`04` `.ipynb` | Hands-on lab: run the secure pipeline yourself |
 
 ## 🧪 Hands-on notebooks — quick start
